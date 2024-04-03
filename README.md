@@ -18,7 +18,7 @@ A biblioteca Requests também será útil na execução do projeto, para instala
 pip install requests
 ```
 ## Projeto
-Todo o código do projeto e a explicação de cada linha pode ser vista [aqui](https://github.com/suzananeves/Web-Scraping-e-IA-Generativa/blob/main/Analise.ipynb)
+Todo o código do projeto e a explicação de cada linha pode ser visto [aqui](https://github.com/suzananeves/Web-Scraping-e-IA-Generativa/blob/main/Analise.ipynb)
 
 ## Resultado
 O projeto retorna um Dicionário Python ordenado do item com mais requisições, para o com menos. Foi selecionado os 20 primeiros itens e colocados na tabela abaixo:
